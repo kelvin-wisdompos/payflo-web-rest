@@ -1,0 +1,10 @@
+{
+  "require": {
+    "firebase/php-jwt": "^5.0",
+    "hashids/hashids": "^2.0",
+    "adyen/php-api-library": "^6.3.0"
+  },
+  "require-dev": {
+    "phalcon/ide-stubs": "v3.4.3"
+  }
+}
