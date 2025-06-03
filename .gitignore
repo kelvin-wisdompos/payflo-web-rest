@@ -1,0 +1,15 @@
+.php_cs
+app/model
+app/config/main.php
+cache/*
+!cache/.htaccess
+log/*
+!log/.htaccess
+static
+!static/.htaccess
+composer/vendor
+composer/composer.lock
+/.buildpath
+/.project
+/.settings/org.eclipse.php.core.prefs
+/.settings/org.eclipse.wst.common.project.facet.core.xml
